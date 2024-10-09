@@ -23,3 +23,7 @@ function closeLogin() {
     loginBox.classList.remove('transformLoginbox');
     background.classList.remove('background');
 }
+
+function bikeDropdown() {
+    const bild = document.querySelector('.singlebild');
+}

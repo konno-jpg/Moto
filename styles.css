@@ -115,7 +115,7 @@ body {
 	margin-right: 35%;
 	padding: 1%;
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 	align-items: center;
 }
 .stichpunktheader {
@@ -221,7 +221,8 @@ body {
 	position: relative;
 	text-decoration: none;
 	font-family: verdana;
-	font-size: 125%;
+	font-size: 150%;
+	font-weight: bold;
 	color: black;
 }
 .hoverlinks a::after {
@@ -232,7 +233,7 @@ body {
 	left: 0;
 	bottom: -2;
 	border-radius: 10px;
-	transition: 0.5s;
+	transition: 0.3s;
 	width: 0;
 }
 .hoverlinks:hover a::after {
@@ -244,7 +245,7 @@ body {
 	margin-right: 35%;
 	padding: 1%;
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 	align-items: center;
 }
 footer {
